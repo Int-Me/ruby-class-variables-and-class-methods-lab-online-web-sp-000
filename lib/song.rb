@@ -42,7 +42,7 @@ class Song
         artist_list[artist] = 1
       end
     end
-    genre_list
+    artist_list
   end
 
 end
