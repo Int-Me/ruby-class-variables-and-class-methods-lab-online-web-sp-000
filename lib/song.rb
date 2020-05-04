@@ -18,6 +18,15 @@ class Song
   def artists
     @@artists
   end
+  def genres
+    @@genres
+  end
+  def genre_count
+    genre_list = {}
+    @@genres.each do |genre|
+      
+    end
+  end
 
 
 end
